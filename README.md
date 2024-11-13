@@ -1,6 +1,6 @@
-# React + Vite
+# Per Scholas Lab 320.3 - Rendering Arrays from State
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Demo](https://jordles.github.io/Per-Scholas-Lab-320.3/)
 
 Currently, two official plugins are available:
 
